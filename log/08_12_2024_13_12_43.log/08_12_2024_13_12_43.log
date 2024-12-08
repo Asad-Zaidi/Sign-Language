@@ -1,0 +1,1 @@
+[ 2024-12-08 13:12:43,277 ] root - ERROR - Error occurred python script name [app.py] line number [79] error message [unsupported operand type(s) for +: 'int' and 'str']
